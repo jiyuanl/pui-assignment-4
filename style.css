@@ -1,0 +1,190 @@
+
+body{
+    margin:0px;
+    font-family: 'Petit Formal Script';
+}
+h1{
+    text-decoration: none;
+    color:black;
+}
+#head{
+    margin-bottom:100px;
+}
+#logo{
+    display: inline-block;
+    width: 28%;
+    margin-left: 100px;
+}
+#message{
+    display: inline-block;
+    position: absolute;
+    margin:50px;
+    left:400px;
+    width:30%;
+    text-align:center;
+}
+#feature{
+    display: inline-block;
+    position: absolute;
+    right:20px;
+}
+input{
+    position: absolute;
+    right: 20px;
+    top: 50px;
+    width: 22%;
+    height: 30px;
+    border-style:
+}
+#nav1{
+    text-align: center;
+    margin: 10px;
+}
+img#asset{
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+}
+#nav2{
+    text-align: center;
+    margin: 10px;
+}
+.nav1{
+    padding: 20px;
+    text-decoration: none;
+    color:black;
+}
+.nav2{
+    padding: 25px;
+    text-decoration: none;
+    color:black;
+}
+#navigation{
+    padding-top:100px;
+}
+#back{
+    display:inline-block;
+    width: 20%;
+    padding-left: 200px;
+}
+#category{
+    display:inline-block;
+    text-align: center;
+    width:30%;
+}
+#category_{
+    text-align: center;
+    width:30%;
+}
+#pdLeft{
+    display:inline-block;
+    width: 35%;
+    position:absolute;
+    top:600px;
+}
+#pdImage{
+    display:inline-block;
+    width: 20%;
+    position:absolute;
+    left:450px;
+}
+#pdRight{
+    display:inline-block;
+    position: absolute;
+    right:0px;
+    width: 30%;
+    text-align: center;
+}
+#pdLeft > p
+{
+    text-align: center;
+}
+.description{
+    display:block;
+    position: relative;
+    text-align: center;
+}
+img#fish{
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+}
+#pdRight{
+    margin-top: 200px;
+}
+}
+#size{
+    display:block;
+    border: 2px solid black;
+    text-align: center;
+}
+#buy{
+    display:block;
+    color: white;
+    background: black;
+    padding-top: 9px;
+    padding-bottom: 9px;
+    position:absolute;
+    left:150px;
+    top:120px;
+    text-align:center;
+}
+#product{
+
+    font-family: 'EB Garamond';
+}
+.productImages{
+    display:inline;
+    text-align: center;
+    margin:60px;
+}
+.image-small{
+    width:20%;
+}
+#price{
+    display:inline-block;
+    font-size: 20px;
+    font-family: 'Petit Formal Script';
+}
+.item-count{
+    display:inline-block;
+    position:absolute;
+    left:0px;
+}
+.cart-item{
+    display:block;
+    margin:20px;
+}
+#total-cart-num{
+    display:block;
+    position:absolute;
+    top:150px;
+    left:1020px;
+}
+#cart-num{
+    position:absolute;
+    top:150px;
+    left:1200px;
+}
+#total-cart-num_{
+    display:block;
+    position:absolute;
+    top:200px;
+    left:120px;
+}
+#cart-numm{
+    position:absolute;
+    top:200px;
+    left:250px;
+}
+#dollar{
+    display:inline;
+    font-size: 20px;
+    font-family: 'Petit Formal Script';
+}
+.asset2{
+    position:relative;
+    left:-200px;
+    margin:10px;
+    top:25px;
+}
